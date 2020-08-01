@@ -6,3 +6,13 @@ html, body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+img {
+    min-height: 20px;
+    min-width: 48px;
+}
+
+.count {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
